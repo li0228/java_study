@@ -1,0 +1,4 @@
+1.jsp全称 Java Server Pages 是一种动态网页开发技术。
+  它使用jsp标签在HTML网页中插入java代码。通常便签以<%开头，以%>结束
+2.JSP是一种java servlet,主要用于实现java web应用程序的用户界面部分。
+3.
